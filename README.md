@@ -1,4 +1,4 @@
-# Project 3: Twitter
+# Project 3: Twitter I
 
 **Name of your app** is a basic twitter app to read your tweets.
 
