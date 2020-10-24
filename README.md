@@ -18,3 +18,7 @@
 <img src='http://g.recordit.co/KhMUxGic1w.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='http://g.recordit.co/qFnO8keO1P.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='http://g.recordit.co/VuRnzpTGb6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+## License
+
+MIT License. © Weirong Wu, 2020
