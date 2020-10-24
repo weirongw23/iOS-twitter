@@ -20,5 +20,8 @@ The following **bonus** features are implemented:
 - [x] User can load past tweets infinitely. (2pts)
 
 ## Video Walkthrough
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<img src='http://g.recordit.co/LCa0yo7Qte.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/KhMUxGic1w.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/qFnO8keO1P.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/VuRnzpTGb6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
