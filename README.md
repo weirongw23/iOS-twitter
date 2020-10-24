@@ -1,8 +1,6 @@
-# Project 3 - Twitter Part I
+# Twitter - Part I
 
-**Twitter** is a basic twitter app to read your tweets.
-
-Time spent: **15** hours spent in total
+**Twitter** is a basic twitter app to read and engage with your tweets.
 
 ## Feature Implementations
 
